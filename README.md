@@ -47,3 +47,14 @@ This project involves designing and implementing a structured **Employee Managem
 - **Encourage healthy leave usage** to promote well-being
 - **Revamp promotion policies** for sustained career growth
 - **Refine payroll models** for better compensation and retention strategies
+
+## 📂 Suggested Folder Structure
+Employee-Management-SQL-Project/
+├── database/
+│   └── schema.sql
+├── queries/
+│   └── analysis_queries.sql
+├── docs/
+│   └── ER_Diagram.png
+│   └── Project_Report.pdf
+├── README.md
