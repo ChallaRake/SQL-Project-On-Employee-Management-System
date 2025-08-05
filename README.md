@@ -49,17 +49,18 @@ This project involves designing and implementing a structured **Employee Managem
 - **Refine payroll models** for better compensation and retention strategies
 
 ## 📂 Suggested Folder Structure
-**Employee-Management-SQL-Project/
-├── database/
-│   └── Employee.csv
-|   └── JobDepartment.csv
-|   └── Leaves.csv
-|   └── Payroll.csv
-|   └── Qualification.csv
-|   └── Salary_Bonus.csv
-|   └── emp_leave10.csv
-├── queries/
-│   └── analysis_queries.sql
-├── docs/
-│   └── Employee Management System_SQL_Project_.pptx
-├── README.md**
+**Employee-Management-SQL-Project/\
+├── database/\
+│   └── Employee.csv\
+|   └── JobDepartment.csv\
+|   └── Leaves.csv\
+|   └── Payroll.csv\
+|   └── Qualification.csv\
+|   └── Salary_Bonus.csv\
+|   └── emp_leave10.csv\
+├── queries/\
+│   └── analysis_queries.sql\
+├── docs/\
+│   └── Employee Management System_SQL_Project_.pptx\
+├── README.md\
+**
