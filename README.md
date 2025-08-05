@@ -49,6 +49,7 @@ This project involves designing and implementing a structured **Employee Managem
 - **Refine payroll models** for better compensation and retention strategies
 
 ## 📂 Suggested Folder Structure
+
 Employee-Management-SQL-Project/\
 ├── database/\
 │   └── Employee.csv\
