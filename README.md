@@ -59,7 +59,7 @@ Employee-Management-SQL-Project/\
 |   └── Salary_Bonus.csv\
 |   └── emp_leave10.csv\
 ├── queries/\
-│   └── analysis_queries.sql\
+│   └── Project.sql\
 ├── docs/\
 │   └── Employee Management System_SQL_Project_.pptx\
 ├── README.md\
