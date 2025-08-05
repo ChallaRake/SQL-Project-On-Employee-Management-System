@@ -49,12 +49,11 @@ This project involves designing and implementing a structured **Employee Managem
 - **Refine payroll models** for better compensation and retention strategies
 
 ## 📂 Suggested Folder Structure
-**Employee-Management-SQL-Project/
-├── database/
-│   └── schema.sql
-├── queries/
-│   └── analysis_queries.sql
-├── docs/
-│   └── ER_Diagram.png
-│   └── Project_Report.pdf
-├── README.md**
+**Employee-Management-SQL-Project/**
+**├── database/**
+**│   └── schema.sql**
+**├── queries/**
+**│   └── Project.sql**
+**├── docs/**
+**│   └── Employee Management System_SQL_Project_.ppt**
+**├── README.md**
